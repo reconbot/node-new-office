@@ -1,0 +1,25 @@
+{
+  "name": "new-office",
+  "version": "0.0.1",
+  "description": "NPM's new office",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/reconbot/node-new-office.git"
+  },
+  "keywords": [
+    "new-office"
+  ],
+  "author": "Francis Gulotta <wizard@roborooter.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/reconbot/node-new-office/issues"
+  },
+  "bin": {
+    "new-office": "./index.js"
+  }
+}
